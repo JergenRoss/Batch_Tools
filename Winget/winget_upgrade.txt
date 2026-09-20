@@ -1,0 +1,2 @@
+GitHub.cli
+Oracle.JDK.18
