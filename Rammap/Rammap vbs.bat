@@ -1,0 +1,1 @@
+cscript.exe "%~dp0Rammap.vbs"
