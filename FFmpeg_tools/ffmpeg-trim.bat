@@ -1,0 +1,1 @@
+ffmpeg -ss 30 -i input.wmv -c copy -t 10 output.wmv
